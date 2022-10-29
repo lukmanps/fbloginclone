@@ -1,0 +1,238 @@
+.header{
+    background-color: #305998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 25px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+    
+}
+.login-controls{
+    margin-left: 115px;
+    
+}
+.forgotpass{
+    color: #9cb4d8;
+    font-size: 10px;
+    text-decoration: none;
+
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    border-style: solid;
+    cursor: pointer;
+}
+.sub-btn:hover{
+background: #7f98bd;
+}
+.main-body{
+    background: linear-gradient(#fff,#d3d8e8);
+    width: 100%;
+    height: 700px;
+
+}
+.left-section{
+    width: 45%;
+    float: left;
+    font-size: 24px;
+    padding-inline-start: 168px;
+    padding-top: 50px;
+}
+.right-section{
+    width: 40%;
+    float: left;
+    padding-left: 18px;
+}
+.fblogo-body{
+    color: #29487d;
+    font-size: 70px;
+  
+}
+.tagline{
+    margin-top: -50px;
+    font-size: 20px;
+}
+.create-acc{
+    font-size: 38px;
+    font-weight: bold;
+}
+#fname{
+    width: 165px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 0px;
+    padding-left: 5px;
+    
+}
+
+
+#sname{
+    width: 165px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 5px;
+    padding-left: 5px;
+
+}
+
+#uname {
+    width: 350px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 5px;
+    margin-top: 8px;
+}
+.mail{
+    width: 350px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 5px;
+    margin-top: 8px;
+
+}
+.mail2{
+    width: 350px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 5px;
+    margin-top: 8px;
+
+}
+#password{
+    width: 350px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 5px;
+    margin-top: 8px;
+}
+#confirmPassword{
+    width: 350px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 5px;
+    margin-top: 8px;
+
+}    
+.birthday{
+    margin-block: 8px;
+    margin-top: 10px;
+    font-size: 22px;
+
+}
+.month{
+    
+    font-size: 13px;
+}
+.days{
+    margin-left: 3px;
+    padding: 1px;
+    font-size: 13px;
+}
+.years{
+    margin-left: 3px;
+    padding: 1px;
+    font-size: 13px;
+}
+.quest{
+    font-size: 10px;
+    
+
+}
+.whybdy{
+    padding-left: 215px;
+    margin-top: -35px;
+    
+    text-decoration: none;
+    
+}
+.gender{
+    margin-left: -5px;
+    margin-top: 12px;
+    font-size: 18px;
+    
+}
+.subline{
+    font-size: 10px;
+    margin-right: 250px;    
+    margin-top: 10px;
+    color: gray;
+
+
+}
+.signupbtn{  
+    font-size: 20px;
+font-weight: 700;
+width: 200px;
+height: 45px;
+margin-top: 20px;
+border: 1px solid;
+  border-top-color: currentcolor;
+  border-right-color: currentcolor;
+  border-bottom-color: currentcolor;
+  border-left-color: currentcolor;
+border-color: rgb(0, 0, 0);
+border-radius: 7px;
+background: linear-gradient(#67ae55, #578843);
+color: #fff;
+cursor: pointer;
+
+
+  
+}
+.signupbtn:hover{
+background: rgb(32, 163, 60);
+}
+::placeholder{
+    color: gray;
+}
+.bottomline{
+border-top: 1px solid rgb(53, 53, 53);
+margin-top: 20px;
+margin-right: 180px;
+}
+.create-btm{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #464646;
+}
